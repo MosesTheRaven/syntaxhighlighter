@@ -1,0 +1,48 @@
+.posun {
+	padding-left: 20px;
+}
+.cyklus {
+	color : chocolate;
+	font-weight: bold;
+}
+.podmienka {
+	color: green; 
+	font-weight: bold;
+}
+.system {
+	color: navy;
+	font-weight: bold;
+}
+.deklaracia {
+	color: black;
+	font-weight: bold;	
+}
+.premenna{
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+}
+.retazec{
+	color: darkgreen;
+	font-style: oblique;
+}
+.komentar {
+	color: grey;
+	font-style: italic;
+}
+.znamienko {
+	color: blue;
+}
+.funkcie {
+	color: blue;
+	font-weight: bold;	
+}
+.hodnotaTF {
+	color: red;
+	font-weight: bold;	
+}
+.spec {
+	color: black;
+	font-weight: bold;		
+}
+
