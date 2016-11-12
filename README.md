@@ -1,0 +1,1 @@
+# Pascal syntax highlighter
